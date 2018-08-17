@@ -1,5 +1,5 @@
 # Diff_signal_pred
-This folder includes supplementary scripts for "Differential Analysis of Chromatin Accessibility and Histone Modifications for Predicting Mouse Developmental Enhancers, Fu et al.", which is under revision now.
+This folder includes supplementary scripts for "Differential Analysis of Chromatin Accessibility and Histone Modifications for Predicting Mouse Developmental Enhancers", Fu et al., which is accepted for publication in [Nucleic Acids Research](https://academic.oup.com/nar).
 
 ### 1. Figure script
 Contains scripts to plot main and supplementary figures.
